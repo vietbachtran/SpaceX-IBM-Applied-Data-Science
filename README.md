@@ -1,1 +1,4 @@
-# SpaceX-IBM-Applied-Data-Science
+# SpaceX IBM Applied Data Science Capstone
+Making space exploration affordable and available to the general public has gained a lot of interest recently. The leader in this field is SpaceX, with their reusable Falcon 9 spaceship boosters. Successful booster landings are affected by multiple factors. This project’s goal is to identify which factors are important to the booster landing success. Another goal is to accurately predict the success of a landing based on past data. The results of this project could help scientists improve on the booster designs as well as launch plans to increase booster landing success.
+
+The study suggests payload mass, launching site, and launching year are among the most important indicators of landing success. Through the project, I have also built and optimized multiple machine learning models that are able to predict the landing success at a high accuracy. The best-performing model is Decision Tree, with a testing accuracy rate of 0.89.
